@@ -1,0 +1,385 @@
+{
+  "content": "Project Overview",
+  "children": [
+    {
+      "content": "Frontend Development",
+      "children": [
+        {
+          "content": "React Components",
+          "children": [
+            {
+              "content": "Header Component",
+              "children": [],
+              "payload": {
+                "tag": "li",
+                "lines": "6,7"
+              }
+            },
+            {
+              "content": "Navigation Component",
+              "children": [],
+              "payload": {
+                "tag": "li",
+                "lines": "7,8"
+              }
+            },
+            {
+              "content": "Content Components",
+              "children": [
+                {
+                  "content": "Article List",
+                  "children": [],
+                  "payload": {
+                    "tag": "li",
+                    "lines": "9,10"
+                  }
+                },
+                {
+                  "content": "Article Detail",
+                  "children": [],
+                  "payload": {
+                    "tag": "li",
+                    "lines": "10,11"
+                  }
+                },
+                {
+                  "content": "User Profile",
+                  "children": [],
+                  "payload": {
+                    "tag": "li",
+                    "lines": "11,13"
+                  }
+                }
+              ],
+              "payload": {
+                "tag": "li",
+                "lines": "8,13"
+              }
+            }
+          ],
+          "payload": {
+            "tag": "h3",
+            "lines": "4,5"
+          }
+        },
+        {
+          "content": "State Management",
+          "children": [
+            {
+              "content": "Redux Store",
+              "children": [],
+              "payload": {
+                "tag": "li",
+                "lines": "15,16"
+              }
+            },
+            {
+              "content": "Actions",
+              "children": [],
+              "payload": {
+                "tag": "li",
+                "lines": "16,17"
+              }
+            },
+            {
+              "content": "Reducers",
+              "children": [],
+              "payload": {
+                "tag": "li",
+                "lines": "17,19"
+              }
+            }
+          ],
+          "payload": {
+            "tag": "h3",
+            "lines": "13,14"
+          }
+        }
+      ],
+      "payload": {
+        "tag": "h2",
+        "lines": "2,3"
+      }
+    },
+    {
+      "content": "Backend Development",
+      "children": [
+        {
+          "content": "API Endpoints",
+          "children": [
+            {
+              "content": "User Authentication",
+              "children": [
+                {
+                  "content": "Login",
+                  "children": [],
+                  "payload": {
+                    "tag": "li",
+                    "lines": "24,25"
+                  }
+                },
+                {
+                  "content": "Register",
+                  "children": [],
+                  "payload": {
+                    "tag": "li",
+                    "lines": "25,26"
+                  }
+                },
+                {
+                  "content": "Password Reset",
+                  "children": [],
+                  "payload": {
+                    "tag": "li",
+                    "lines": "26,27"
+                  }
+                }
+              ],
+              "payload": {
+                "tag": "li",
+                "lines": "23,27"
+              }
+            },
+            {
+              "content": "Content Management",
+              "children": [
+                {
+                  "content": "Create Article",
+                  "children": [],
+                  "payload": {
+                    "tag": "li",
+                    "lines": "28,29"
+                  }
+                },
+                {
+                  "content": "Edit Article",
+                  "children": [],
+                  "payload": {
+                    "tag": "li",
+                    "lines": "29,30"
+                  }
+                },
+                {
+                  "content": "Delete Article",
+                  "children": [],
+                  "payload": {
+                    "tag": "li",
+                    "lines": "30,32"
+                  }
+                }
+              ],
+              "payload": {
+                "tag": "li",
+                "lines": "27,32"
+              }
+            }
+          ],
+          "payload": {
+            "tag": "h3",
+            "lines": "21,22"
+          }
+        },
+        {
+          "content": "Database",
+          "children": [
+            {
+              "content": "User Schema",
+              "children": [],
+              "payload": {
+                "tag": "li",
+                "lines": "34,35"
+              }
+            },
+            {
+              "content": "Article Schema",
+              "children": [],
+              "payload": {
+                "tag": "li",
+                "lines": "35,36"
+              }
+            },
+            {
+              "content": "Comment Schema",
+              "children": [],
+              "payload": {
+                "tag": "li",
+                "lines": "36,38"
+              }
+            }
+          ],
+          "payload": {
+            "tag": "h3",
+            "lines": "32,33"
+          }
+        }
+      ],
+      "payload": {
+        "tag": "h2",
+        "lines": "19,20"
+      }
+    },
+    {
+      "content": "DevOps",
+      "children": [
+        {
+          "content": "Deployment",
+          "children": [
+            {
+              "content": "Docker Configuration",
+              "children": [],
+              "payload": {
+                "tag": "li",
+                "lines": "42,43"
+              }
+            },
+            {
+              "content": "CI/CD Pipeline",
+              "children": [],
+              "payload": {
+                "tag": "li",
+                "lines": "43,44"
+              }
+            },
+            {
+              "content": "Environment Variables",
+              "children": [],
+              "payload": {
+                "tag": "li",
+                "lines": "44,46"
+              }
+            }
+          ],
+          "payload": {
+            "tag": "h3",
+            "lines": "40,41"
+          }
+        },
+        {
+          "content": "Monitoring",
+          "children": [
+            {
+              "content": "Error Tracking",
+              "children": [],
+              "payload": {
+                "tag": "li",
+                "lines": "48,49"
+              }
+            },
+            {
+              "content": "Performance Metrics",
+              "children": [],
+              "payload": {
+                "tag": "li",
+                "lines": "49,50"
+              }
+            },
+            {
+              "content": "User Analytics",
+              "children": [],
+              "payload": {
+                "tag": "li",
+                "lines": "50,52"
+              }
+            }
+          ],
+          "payload": {
+            "tag": "h3",
+            "lines": "46,47"
+          }
+        }
+      ],
+      "payload": {
+        "tag": "h2",
+        "lines": "38,39"
+      }
+    },
+    {
+      "content": "Testing",
+      "children": [
+        {
+          "content": "Unit Tests",
+          "children": [
+            {
+              "content": "Component Tests",
+              "children": [],
+              "payload": {
+                "tag": "li",
+                "lines": "56,57"
+              }
+            },
+            {
+              "content": "Utility Function Tests",
+              "children": [],
+              "payload": {
+                "tag": "li",
+                "lines": "57,59"
+              }
+            }
+          ],
+          "payload": {
+            "tag": "h3",
+            "lines": "54,55"
+          }
+        },
+        {
+          "content": "Integration Tests",
+          "children": [
+            {
+              "content": "API Tests",
+              "children": [],
+              "payload": {
+                "tag": "li",
+                "lines": "61,62"
+              }
+            },
+            {
+              "content": "Database Tests",
+              "children": [],
+              "payload": {
+                "tag": "li",
+                "lines": "62,64"
+              }
+            }
+          ],
+          "payload": {
+            "tag": "h3",
+            "lines": "59,60"
+          }
+        },
+        {
+          "content": "End-to-End Tests",
+          "children": [
+            {
+              "content": "User Journey Tests",
+              "children": [],
+              "payload": {
+                "tag": "li",
+                "lines": "66,67"
+              }
+            },
+            {
+              "content": "Cross-browser Testing",
+              "children": [],
+              "payload": {
+                "tag": "li",
+                "lines": "67,68"
+              }
+            }
+          ],
+          "payload": {
+            "tag": "h3",
+            "lines": "64,65"
+          }
+        }
+      ],
+      "payload": {
+        "tag": "h2",
+        "lines": "52,53"
+      }
+    }
+  ],
+  "payload": {
+    "tag": "h1",
+    "lines": "0,1"
+  }
+}
